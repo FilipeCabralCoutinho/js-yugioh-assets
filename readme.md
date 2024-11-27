@@ -1,9 +1,7 @@
 # Yu-Gi-Oh | Jo-ken-po Edition
 
-Jogo de jokenpo que criei para explicar conceitos de lógica de programação aplicados a jogos
+Projeto desafiador para quem é iniciante, mas com paciência e resiliência, consegui.
 
-conceitos abordados:
+Esse jogo consiste em uma brincadeira de Pedra-Papel-Tesoura representado pelas cartas do anime Yu-Gi-OH.
 
-- Armazenamento e gerenciamento de estado manual
-- Funções limpas
-- Organização de código
+Visite o projeto, está bem legal e bem personalizado, com sons etc.
